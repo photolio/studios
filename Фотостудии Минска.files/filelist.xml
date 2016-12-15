@@ -1,7 +1,7 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../Фотостудии%20Минска.htm"/>
- <o:File HRef="item0001.xml"/>
- <o:File HRef="props002.xml"/>
+ <o:File HRef="item0168.xml"/>
+ <o:File HRef="props169.xml"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="image001.jpg"/>
@@ -166,5 +166,10 @@
  <o:File HRef="image160.jpg"/>
  <o:File HRef="image161.jpg"/>
  <o:File HRef="image162.jpg"/>
+ <o:File HRef="image163.jpg"/>
+ <o:File HRef="image164.jpg"/>
+ <o:File HRef="image165.jpg"/>
+ <o:File HRef="image166.jpg"/>
+ <o:File HRef="image167.jpg"/>
  <o:File HRef="filelist.xml"/>
 </xml>
